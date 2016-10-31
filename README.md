@@ -16,7 +16,7 @@ Using [Hunspell UTF8 dictionaries](https://github.com/titoBouzout/Dictionaries)
 
 ### Manual installation
 
-  1. Locate Sublime Text Package folder (Preferences > Browse Packages). 
+  1. Locate Sublime Text Package folder (Preferences > Browse Packages).
      For Linux, it's likely at `~/.config/sublime-text-3/Packages`
   2. [Download me](https://nodeload.github.com/yuan3y/SublimeTextLanguageSpanish/zip/master "Download manual package") and unzip my contents in this folder (Packages)
   3. Rename the folder in a more suitable name, ex: "Language - Spanish - Español (manual)" (**warning:** there must not be any sub-folder in this folder, depending on your unzipping utility you might need to move files to the parent folder)
